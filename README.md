@@ -3,6 +3,8 @@ This is a test program for the PCF85748  8-Bit I/O Port-Expander.
 I developed the program on a Raspberry Pi with Raspbian Jessie as OS.
 I used for my test program the project from https://github.com/flyte/pcf8574 which makes the control of the PCF85748 very easy.
 
+The picture below shows the PCF85748 and the 4-way relais.
+
 ![PCF85748-Bit-I-O-Port-Expander](https://custom-build-robots.com/wp-content/uploads/2017/06/PCF8574-test-setup-01-300x239.jpg)
 
 ## Raspberry Pi - controlling a Relais
